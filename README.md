@@ -1,6 +1,6 @@
 ## Deep Adaptive Fusion Network for High Performance RGBT Tracking
 
-## This project is create base on 
+## This project is created base on 
 -- RT-MDNet: Real-Time Multi-Domain Convolutional Neural Network Tracker
 Created by [Ilchae Jung](http://cvlab.postech.ac.kr/~chey0313), [Jeany Son](http://cvlab.postech.ac.kr/~jeany), [Mooyeol Baek](http://cvlab.postech.ac.kr/~mooyeol), and [Bohyung Han](http://cvlab.snu.ac.kr/~bhhan) 
 
